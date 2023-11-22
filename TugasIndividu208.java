@@ -1,7 +1,6 @@
 import java.util.Scanner;
 
 public class TugasIndividu208 {
-    public class Tugas215 {
     static Scanner sc = new Scanner(System.in);
     static int[][] nilai = new int[5][7];
     static String[] nama = { "Dewi", "Mella", "Cindy", "Khansa", "Dhini" };
@@ -74,5 +73,4 @@ public class TugasIndividu208 {
         }
         return maxValue;
     }
-}
 }
